@@ -2,7 +2,7 @@
 
 A website for a software company, with a work gallery, a live quote builder and contact forms, plus an admin panel and a customer portal.
 
-**Live:** []
+**Live:** [arund-dev.github.io/nexus-portals/](https://arund-dev.github.io/nexus-portals/)
 
 ## Features
 - Work gallery managed from an admin panel
